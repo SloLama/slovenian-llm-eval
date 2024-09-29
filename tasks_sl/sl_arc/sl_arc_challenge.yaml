@@ -1,0 +1,3 @@
+include: sl_arc_easy.yaml
+task: sl_arc_challenge
+dataset_name: arc_challenge
