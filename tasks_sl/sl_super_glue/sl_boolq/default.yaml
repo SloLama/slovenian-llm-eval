@@ -1,7 +1,7 @@
 tag:
   - super-glue-lm-eval-v1
 task: sl_boolq
-dataset_path: cjvt/slovenian-llm-eval
+dataset_path: gordicaleksa/slovenian-llm-eval-v0
 dataset_name: boolq
 output_type: multiple_choice
 training_split: null

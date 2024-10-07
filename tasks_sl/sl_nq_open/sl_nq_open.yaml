@@ -1,5 +1,5 @@
 task: sl_nq_open
-dataset_path: cjvt/slovenian-llm-eval
+dataset_path: gordicaleksa/slovenian-llm-eval-v0
 dataset_name: nq_open
 output_type: generate_until
 training_split: train

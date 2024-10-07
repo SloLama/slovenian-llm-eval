@@ -1,7 +1,7 @@
 tag:
   - multiple_choice
 task: sl_hellaswag
-dataset_path: cjvt/slovenian-llm-eval
+dataset_path: gordicaleksa/slovenian-llm-eval-v0
 dataset_name: hellaswag
 output_type: multiple_choice
 training_split: null

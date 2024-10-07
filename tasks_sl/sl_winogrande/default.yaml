@@ -1,5 +1,5 @@
 task: sl_winogrande
-dataset_path: cjvt/slovenian-llm-eval
+dataset_path: data/slovenian-llm-eval-v0.py
 dataset_name: winogrande
 output_type: multiple_choice
 training_split: null
