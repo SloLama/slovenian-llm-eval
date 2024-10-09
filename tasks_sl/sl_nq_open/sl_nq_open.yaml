@@ -5,7 +5,7 @@ output_type: generate_until
 training_split: train
 test_split: test
 description: "Odgovori na ta vprašanja:\n\n"
-doc_to_text: "V: {{question}}\nO:"
+doc_to_text: "Vprašanje: {{question}}\nOdgovor:"
 doc_to_target: "{{answer}}" # TODO: should be multi-target
 fewshot_delimiter: "\n"
 generation_kwargs:

@@ -9,7 +9,7 @@ validation_split: null
 test_split: test
 doc_to_text: "{{passage}}\nVprašanje: {{question}}?\nOdgovor:"
 doc_to_target: label
-doc_to_choice: ["ne", "ja"]
+doc_to_choice: ["Ne", "Da"]
 should_decontaminate: true
 doc_to_decontamination_query: passage
 metric_list:
